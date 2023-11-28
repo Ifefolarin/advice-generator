@@ -64,7 +64,7 @@ export default function App() {
       <div>
         <footer className="attribution">
           Challenge by
-          <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
+          <a href="https://www.frontendmentor.io?ref=challenge">
             Frontend Mentor
           </a>
           . Coded by{" "}
